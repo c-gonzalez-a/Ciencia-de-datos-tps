@@ -1,0 +1,18 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local notebooks and editor artifacts
+*.tmp
+
+# Heavy artifacts (keep outside Git)
+TP2/models/
+TP2/datasets/
+TP1/models/
+TP1/datasets/
+
+# Large serialized models
+*.pkl
+*.joblib

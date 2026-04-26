@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+scikit-learn
+graphviz
+xgboost
+plotly
+joblib
+nltk
+langdetect
+#spacy
+#pysentimiento
+#transformers[torch]
